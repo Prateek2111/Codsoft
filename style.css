@@ -1,0 +1,48 @@
+.row{
+    display: inline-block;
+    padding: 23px;
+    border-radius: 10px;
+    background-image: url("image\(2\).jpg");
+    border-radius: 15px;
+}
+.head{
+    color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.heading{
+    text-align: center;
+    font-family:Agbalumo;
+    font-size:40px;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    text-shadow: 100px;
+    color: aquamarine;
+}
+body{
+    background-image: url("image\ \(1\).jpg");
+}
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+    padding: 15px;
+}
+input{
+    font-size: 25px;
+    background-color: rgb(225, 195, 228);
+    height: 40px;
+    border: 4px solid rgb(71, 68, 104);
+    border-radius: 4px;
+}
+button{
+    font-size: 25px;
+    background-color: rgb(234, 157, 57);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 150px;
+    border-radius: 100px;
+    padding: 20px;
+    text-align: center;
+    margin: 4px 2px;
+    display: inline-block;
+}
